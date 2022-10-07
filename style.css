@@ -21,7 +21,7 @@ body{
   
 }
 nav{
-    background-color: rgb(109, 57, 79);
+    background-color:rgb(57, 142, 227);
     height: 80px;
     width: 100%;
 }
@@ -60,7 +60,7 @@ nav ul li a{
  div.r{
   line-height: 60px;  
   margin-left: 40px; 
-  color: rgb(55, 46, 23);
+  color:rgb(148, 40, 40);
   padding-left: 35%;
   font-family: Bahnschrift Condensed;
   font-size: 30px;
@@ -102,4 +102,7 @@ nav ul li a{
  div.five{
   text-align: center;
   font-size: 40px;
+ }
+ .ruin{
+  background-color: rgb(157, 216, 216);
  }
