@@ -21,7 +21,7 @@ body{
   
 }
 nav{
-    background-color:rgb(57, 142, 227);
+    background-color:rgb(32, 58, 84);
     height: 80px;
     width: 100%;
 }
@@ -104,5 +104,5 @@ nav ul li a{
   font-size: 40px;
  }
  .ruin{
-  background-color: rgb(157, 216, 216);
+  background-color: black;
  }
